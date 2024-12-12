@@ -1,12 +1,4 @@
-#Q-1
+#QUE
 
-<img src="img/ans-1.png">
+<img src="img/ans.png">
 
-#Q-2
-
-
-<img src="img/ans-2.png">
-
-#Q-3
-
-<img src="img/ans-3.png">
